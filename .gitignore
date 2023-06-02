@@ -1,0 +1,10 @@
+/xss-bakery/.DS_Store
+/xss-bakery/node_modules
+/xss-bakery/build
+/xss-bakery/.svelte-kit
+/xss-bakery/package
+/xss-bakery/.env
+/xss-bakery/.env.*
+!/xss-bakery/.env.example
+/xss-bakery/vite.config.js.timestamp-*
+/xss-bakery/vite.config.ts.timestamp-*
